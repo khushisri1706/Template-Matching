@@ -51,4 +51,6 @@ cv.imshow("display window", img)
 
 k = cv.waitKey(0)
 if k == ord('q'): 
+    
+    exit()
     exit()
